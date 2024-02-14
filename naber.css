@@ -1,0 +1,64 @@
+p {
+  display: block;
+  font-size: 2em;
+  margin-left: 40%;
+  margin-right: 40%;
+  background-size: 1em;
+  background-color: aqua;
+  margin-top: 2em;
+}
+#as {
+  display: block;
+  font-size: 1.5em;
+  margin-left: 40%;
+  margin-top: 2em;
+  margin-right: 40%;
+  background-color: brown;
+  background-size: 1em;
+  color: burlywood;
+}
+ol {
+  background-color: blue;
+  font-size: 2em;
+  list-style-type: lower-roman;
+}
+table {
+  border-radius: 1em;
+  border-color: crimson;
+  border-width: 1em;
+  border-style: solid;
+  margin-top: 4em;
+  padding: 1em;
+  border-spacing: 1em;
+}
+tr {
+  border-color: blue;
+  border-width: 1em;
+  border-style: solid;
+  border-radius: 1em;
+  width: 30em;
+  text-align: center;
+  padding: 1em;
+  border-spacing: 1em;
+}
+td {
+  border-color: blue;
+  border-width: 1em;
+  border-style: solid;
+  border-radius: 1em;
+  color: azure;
+  width: 30em;
+  padding: 1em;
+  border-spacing: 1em;
+  color: green;
+}
+th {
+  color: blueviolet;
+  border-width: 0.5em;
+  border-radius: 0.5em;
+  border-style: solid;
+  border-color: burlywood;
+  width: 30em;
+  padding: 1em;
+  border-spacing: 1em;
+}
